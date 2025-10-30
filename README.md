@@ -56,3 +56,36 @@ Build the project
 mvn clean install
 Run the application
 mvn exec:java -Dexec.mainClass="org.wrapperclass.Main"
+
+🧠 What You’ll Learn
+
+How Java converts primitive types to objects (autoboxing)
+
+How objects convert back to primitives (unboxing)
+
+Why wrapper classes exist
+
+How to parse numeric values from strings
+
+Basic Maven project structure
+
+🏗 Future Improvements
+
+Add more wrapper class examples
+
+Add unit tests
+
+Add command-line input parsing
+
+Provide advanced demonstrations (Double, Boolean, Character, etc.)
+
+📄 License
+
+This project is open-source and free to use.
+
+👤 Author
+
+Andrew Neil Royo
+💼 Java Developer / Backend Developer (Aspiring)
+📍 Philippines
+🔗 https://www.linkedin.com/in/andrew-neil-royo-7711171b0/
